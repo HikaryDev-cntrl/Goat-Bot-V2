@@ -39,7 +39,7 @@ module.exports = {
 
 	langs: {
 		vi: {
-			help: "╭─────────────⭓"
+			   help: "╭─────────────⭓"
 				+ "\n%1"
 				+ "\n├─────⭔"
 				+ "\n│ Trang [ %2/%3 ]"
@@ -203,7 +203,7 @@ module.exports = {
 			}
 		}
 
-		// ———————————————— LIST ALL COMMAND ——————————————— //
+		// ———————————————— LIST ALL COMMAND AKOUHOU GASY ——————————————— //
 		if (!command && !args[0] || !isNaN(args[0])) {
 			const arrayInfo = [];
 			let msg = "";
