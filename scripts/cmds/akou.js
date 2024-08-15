@@ -1,6 +1,6 @@
 module.exports = {
 config: {
-name: "akou", 
+name: "ai3", 
 author: "Akouhou",//Change nyu lang Yung author 
 category: "ai" 
 },
